@@ -1,0 +1,9 @@
+{
+  "fecha_inicio": "2026-10-26",
+  "dias": 7,
+  "hora_inicio_dia": "07:00",
+  "hora_fin_dia": "22:00",
+  "minutos_por_bloque": 30,
+  "max_horas_tareas_dia": 5,
+  "descanso_min": 30
+}

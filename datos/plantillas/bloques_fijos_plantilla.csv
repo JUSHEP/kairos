@@ -1,0 +1,25 @@
+nombre,dia_semana,hora_inicio,hora_fin
+Cálculo,lunes,07:00,09:00
+Física,lunes,09:00,11:00
+Almuerzo,lunes,12:00,13:00
+Transporte,lunes,13:00,14:00
+Trabajo,lunes,14:00,18:00
+Transporte,lunes,18:00,19:00
+Programación,martes,07:00,10:00
+Inglés,martes,10:00,12:00
+Almuerzo,martes,12:00,13:00
+Transporte,martes,13:00,14:00
+Cálculo,miércoles,07:00,09:00
+Física,miércoles,09:00,11:00
+Almuerzo,miércoles,12:00,13:00
+Transporte,miércoles,13:00,14:00
+Trabajo,miércoles,14:00,18:00
+Transporte,miércoles,18:00,19:00
+Programación,jueves,07:00,10:00
+Inteligencia Artificial,jueves,10:00,12:00
+Almuerzo,jueves,12:00,13:00
+Transporte,jueves,13:00,14:00
+Trabajo,viernes,08:00,14:00
+Almuerzo,viernes,14:00,15:00
+Trabajo,sábado,08:00,13:00
+Familia,domingo,10:00,16:00
