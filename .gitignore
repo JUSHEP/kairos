@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Credenciales y configuración local (nunca se suben)
+.env
+*.key
+
+# Datos personales reales de los integrantes (horarios y registros de duración)
+datos/privados/
+
+# Archivos del sistema y empaquetados
+.DS_Store
+Thumbs.db
+*.zip
+
+# Datasets públicos descargados de su fuente (no se redistribuyen)
+datos/externos/

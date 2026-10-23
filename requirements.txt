@@ -1,0 +1,5 @@
+# Python 3.10 o superior. En Google Colab ya vienen instaladas.
+pandas>=1.5
+matplotlib>=3.6
+scikit-learn>=1.2   # módulo de aprendizaje (kairos/duraciones.py) y exploraciones de datasets
+pytest>=7           # pruebas automáticas
