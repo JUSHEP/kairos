@@ -1,0 +1,5 @@
+modelo,MAE_pomodoros,MAE_minutos,MSE,pct_caben_en_lo_reservado,reservado_sobre_real
+Línea base: usar la estimación tal cual,0.896,22.4,2.448,71.4,0.898
+Regresión lineal: real ~ estimado,1.003,25.1,2.319,84.0,1.212
+Regresión lineal: real ~ estimado + tipo,0.973,24.3,2.328,83.9,1.205
+"k-NN (k = 10, elegido con validación): estimado + tipo",0.949,23.7,2.361,83.7,1.201

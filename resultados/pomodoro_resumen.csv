@@ -1,0 +1,2 @@
+tareas,dias_distintos,desde,hasta,etiquetas_distintas,pct_exacta,pct_se_paso,pct_sobro_tiempo,real_total_sobre_estimado_total,tareas_entrenamiento,tareas_prueba,fecha_corte,intercepto_regresion,pendiente_regresion
+7274,1905,2009-04-09,2019-02-07,203,53.3,27.2,19.6,1.106,5453,1821,2014-11-06,0.73,0.728
